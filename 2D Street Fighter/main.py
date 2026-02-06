@@ -236,8 +236,8 @@ while running:
 	#text("Fighter 1: " + str(score[0]), score_font, red, 20, 120)
 	
 
-	text("SSJ2 Gohan (Youth)" , score_font, red, 20, 120)
-	text("SSJ2 Gohan (Youth)", score_font, red, 1650, 120)
+	text("Fighter 1" , score_font, red, 20, 120)
+	text("Fighter 2", score_font, red, 1650, 120)
 
 	
     #draw healthbars

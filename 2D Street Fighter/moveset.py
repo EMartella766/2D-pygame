@@ -566,7 +566,6 @@ class Fighters:
 
 
 
-
 	#function for switching between animations
 	def switch_animation(self, updated_action):
 		if updated_action != self.current_move:
