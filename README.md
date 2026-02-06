@@ -3,11 +3,11 @@
 #Small demo of the gameplay showcasing some basic attacks I added, alongside healthbars sprite animations and a hitbox system.
 ![Demo](media/2DPygame.gif)
 
-![Demo](media/2DPygame.gif)
+![Demo](media/FinisherRec.gif)
 
 #This here is the main menu showing a button system which can be used to navigate within the menu also providing an option for the player to toggle between their preferred input method. 
 When the play button is pressed, the screen switches to the character select screen showcasing some additional GUI elements I have implemented.
-![Demo](media/2DPygame.gif)
+![Demo](media/MainMenu.gif)
 
 #A lot of the features I have shown are still experimental and still contain some bugs 
 
