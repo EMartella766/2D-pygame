@@ -11,8 +11,9 @@ When the play button is pressed, the screen switches to the character select scr
 
 ![Demo](media/MainMenu.gif)
 
-DISCLAIMER: A lot of the features I have shown are still experimental and still do not work as intended, with some additional bugs that are yet to be fixed. Nonetheless I really enjoyed working on this project as it also introduced me to OOP which improves both maintability and reusability of a program. 
-It was also great interacting with the Pygame community where I had the opportunity to communicate with more experienced developers helping me with debugging as well as learning new concepts!
+Several features I have shown are still experimental and may not function as intended, with additional bugs to be fixed. Despite this, the project proved to be a very valuable experience, particularly introducing me to OOP principles, which significantly improved the maintainability and reusability of the codebase. 
+
+The project also provided the opportunity to engage with the Pygame development community, where discussions with more experienced developers helped me debug code as well as learn new technical concepts.
 
 
 
